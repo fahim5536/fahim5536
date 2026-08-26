@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/fahim5536/fahim5536/main/banner.svg" alt="Tamzid Abdur Rahman Banner" width="100%" max-width="800px" style="max-width:800px;">
-</div>
-
----
-
 # 👋 Tamzid Abdur Rahman (Fahim)
 **fahim5536**
 
