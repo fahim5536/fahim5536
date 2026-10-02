@@ -31,7 +31,7 @@
 
 ---
 
-## 🛠️ Tech Stack (3D Icons)
+## 🛠️ Tech Stack 
 
 <div align="center">
   <a href="https://skillicons.dev">
