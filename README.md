@@ -77,6 +77,7 @@
 ---
 
 ## 📫 Connect with Me
+Email: tamzidabdurr@gmail.com
 
 <div align="center">
   <a href="https://github.com/fahim5536">
